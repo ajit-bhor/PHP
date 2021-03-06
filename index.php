@@ -1,5 +1,5 @@
 <?php
-echo "Hello World! \n";
-echo "Hello Ajit Bhor well done! \n";
-echo "New Line added! \n";
+echo "Hello World! \r\n";
+echo "Hello Ajit Bhor well done! \r\n";
+echo "New Line added! \r\n";
 ?>
